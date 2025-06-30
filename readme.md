@@ -182,6 +182,4 @@ Contributions are welcome! Feel free to submit pull requests or open issues to e
     Developed by: Ayush Kumar
     Linkedin: https://www.linkedin.com/in/ayush-kumar-ak4422 
 
-P0rtFinder is intended for security professionals to scan and assess network vulnerabilities. Use it responsibly and ensure you have permission before scanning any network.
-
 ---
