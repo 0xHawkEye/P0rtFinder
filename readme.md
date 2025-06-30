@@ -1,7 +1,10 @@
 # P0rtFinder
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![License: MIT](https://img.shields.io/github/license/AyushKr41/P0rtFinder?cacheSeconds=60)](https://github.com/AyushKr41/P0rtFinder/blob/main/LICENSE)
+![Issues](https://img.shields.io/github/issues/AyushKr41/P0rtFinder?cacheSeconds=60)
+![Forks](https://img.shields.io/github/forks/AyushKr41/P0rtFinder?cacheSeconds=60)
+![Stars](https://img.shields.io/github/stars/AyushKr41/P0rtFinder?cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/AyushKr41/P0rtFinder?cacheSeconds=60)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 **P0rtFinder** is a powerful and customizable Python-based port scanning tool designed for cybersecurity professionals, penetration testers, and enthusiasts. It helps identify open TCP/UDP ports and associated services on a target system. P0rtFinder also integrates the Nmap Scripting Engine (NSE), allowing users to run advanced security scripts for vulnerability detection directly from the tool.
