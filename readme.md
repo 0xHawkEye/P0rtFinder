@@ -156,7 +156,7 @@ By using this tool, you agree to the following:
 
 ✅ You are solely responsible for any misuse or unauthorized activity performed using this tool.
 
-✅ The developer is not liable for any damage, legal consequences, or misuse resulting from the use of this project.
+✅ The developer is not liable for any damage, legal consequences, or misuse resulting from the use of this tool.
 
 >❗ Always obtain proper authorization before scanning any network or device. Unauthorized scanning is a violation of privacy laws and can be considered illegal hacking under local or international law (e.g., the Computer Fraud and Abuse Act in the U.S. or the IT Act in India).
 
