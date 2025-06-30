@@ -73,8 +73,8 @@ def print_banner():
     banner = pyfiglet.figlet_format("P0rtFinder")
     print(f"{GREEN}{banner}{RESET}")
     print(f"Developed by Ayush Kumar")
-    print(f"GitHub: https://github.com/AyushKr41")
-    print(f"Linkedin: https://www.linkedin.com/in/ayush-kumar-ak4422")
+    print(f"GitHub: https://github.com/0xHawkEye")
+    print(f"Linkedin: https://www.linkedin.com/in/ayushkr4422")
     print(f"\nP0rtFinder is an advanced port scanner that helps you identify open ports and potential vulnerabilities now powered with the NSE .\n")
 
 def main(target, ports_range, protocol, nse_scripts=None, verbose=False):
