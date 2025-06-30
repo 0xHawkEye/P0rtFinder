@@ -173,7 +173,7 @@ By using this tool, you agree to the following:
 - Respect all terms of service and network usage policies.
 ---
 ## **🤝 Contributing**
-Contributions are welcome! Feel free to submit pull requests or open issues to enhance the tool. Your feedback and contributions help improve Agniscan.
+Contributions are welcome! Feel free to submit pull requests or open issues to enhance the tool. Your feedback and contributions help improve P0rtFinder.
 
 ---
 
